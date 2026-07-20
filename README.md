@@ -25,7 +25,7 @@
 <td width="50%">
 
 ### 🎮 [Reality Quest](https://github.com/LudoShenn15)
-RPG gamifié pour le campus universitaire — XP, rangs, badges, chasse au trésor en temps réel via Claude Vision.
+RPG gamifié sur notre vie réelle pour une meilleure productivité dans nos objectifs quotidiens — XP, rangs, badges, chasse au trésor en temps réel etc.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
@@ -35,7 +35,7 @@ RPG gamifié pour le campus universitaire — XP, rangs, badges, chasse au trés
 <td width="50%">
 
 ### 💚 [Dokey](https://dokey-mobile.vercel.app)
-PWA de santé préventive pour les jeunes Africains. Design Duolingo-style, mascotte IA évolutive, streaks.
+PWA de santé préventive. Design Duolingo-style, mascotte IA évolutive, streaks.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa)
