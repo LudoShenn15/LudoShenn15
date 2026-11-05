@@ -8,7 +8,7 @@
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
-*Je construis à l'intersection du **code**, du **design** et de l'**IA**.*
+*Je construis des maisons numériques : **le code** les tient debout, **le design** les rend belles, l'**IA** les rend vivantes*
 
 [![Lomé, Togo](https://img.shields.io/badge/📍-Lomé,_Togo-1a1a2e?style=flat-square)](https://github.com/LudoShenn15)
 [![Génie Logiciel](https://img.shields.io/badge/🎓-Génie_Logiciel-1a1a2e?style=flat-square)](https://github.com/LudoShenn15)
